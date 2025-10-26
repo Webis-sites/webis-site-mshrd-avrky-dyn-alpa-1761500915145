@@ -4,6 +4,7 @@ import React from 'react';
 import Hero from '@/components/Hero';
 import TrustIndicators from '@/components/TrustIndicators';
 import Services from '@/components/Services';
+import Process from '@/components/Process';
 
 export default function HomePage() {
   return (
@@ -14,6 +15,7 @@ export default function HomePage() {
         <Hero />
         <TrustIndicators />
         <Services />
+        <Process />
       </main>
     </>
   );
