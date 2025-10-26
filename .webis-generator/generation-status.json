@@ -1,8 +1,72 @@
 {
-  "projectName": "משרד-עורכי-דין-אלפא-915",
-  "businessName": "משרד עורכי דין אלפא",
-  "created": "2025-10-26T17:48:35.205Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "timestamp": "2025-10-26T17:50:11.340Z",
+  "status": {
+    "totalComponents": 10,
+    "completedComponents": 0,
+    "failedComponents": 0,
+    "progress": 0
+  },
+  "components": [
+    {
+      "name": "Navbar",
+      "type": "navigation",
+      "status": "pending",
+      "description": "Main navigation bar with business name and section links, RTL-optimized"
+    },
+    {
+      "name": "Hero",
+      "type": "hero",
+      "status": "pending",
+      "description": "Impactful hero section with headline, description, and primary CTA"
+    },
+    {
+      "name": "TrustIndicators",
+      "type": "social-proof",
+      "status": "pending",
+      "description": "Trust badges and credibility indicators for law firm"
+    },
+    {
+      "name": "Services",
+      "type": "services",
+      "status": "pending",
+      "description": "Comprehensive services showcase with detailed descriptions"
+    },
+    {
+      "name": "WhyChooseUs",
+      "type": "features",
+      "status": "pending",
+      "description": "Unique value propositions and differentiators"
+    },
+    {
+      "name": "Process",
+      "type": "process",
+      "status": "pending",
+      "description": "Step-by-step client journey and engagement process"
+    },
+    {
+      "name": "FAQ",
+      "type": "faq",
+      "status": "pending",
+      "description": "Frequently asked questions with expandable answers"
+    },
+    {
+      "name": "BookingForm",
+      "type": "booking",
+      "status": "pending",
+      "description": "Appointment booking form with validation and submission"
+    },
+    {
+      "name": "ContactInfo",
+      "type": "contact",
+      "status": "pending",
+      "description": "Contact information and office details"
+    },
+    {
+      "name": "Footer",
+      "type": "footer",
+      "status": "pending",
+      "description": "Site footer with links, legal info, and branding"
+    }
+  ],
+  "repoName": "webis-site-mshrd-avrky-dyn-alpa-1761500915145"
 }
