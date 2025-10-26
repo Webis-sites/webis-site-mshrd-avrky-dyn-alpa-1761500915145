@@ -1,0 +1,7 @@
+
+    # robots.txt for משרד עורכי דין אלפא
+    User-agent: *
+    Allow: /
+
+    # Sitemap
+    Sitemap: https://משרד-עורכי-דין-אלפא.com/sitemap.xml
