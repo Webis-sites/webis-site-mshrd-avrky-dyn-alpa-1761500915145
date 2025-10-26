@@ -1,8 +1,36 @@
 {
   "projectName": "משרד-עורכי-דין-אלפא-915",
   "businessName": "משרד עורכי דין אלפא",
-  "created": "2025-10-26T17:48:35.204Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו משרד עורכי דין מוביל בתחום החינוך עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-10-26T17:49:06.034Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-mshrd-avrky-dyn-alpa-1761500915145",
+  "formData": {
+    "businessName": "משרד עורכי דין אלפא",
+    "businessType": "משרד עורכי דין",
+    "industry": "טכנולוגיה",
+    "businessSize": "small",
+    "description": "אנחנו משרד עורכי דין מוביל בתחום החינוך עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#9B786F",
+    "secondaryColor": "#45B7D1",
+    "typographyStyle": "modern",
+    "animationPreference": "extensive",
+    "headline": "משרד עורכי דין מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": true,
+    "hasProducts": false,
+    "hasServices": true,
+    "hasPortfolio": false,
+    "needsBookingSystem": true,
+    "metaDescription": "משרד עורכי דין מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "משרד עורכי דין, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
